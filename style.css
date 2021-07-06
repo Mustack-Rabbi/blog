@@ -5,7 +5,7 @@
 }
 body {
   width: 100%;
- 
+
   font-family: Arial;
   font-size: 18px;
   color: #000;
@@ -29,9 +29,7 @@ body {
   background-color: White;
   padding: 0px 0px 0px 0px;
 }
-.Sidebar{
-
-}
+.Sidebar {}
 .clear {
   overflow: hidden;
 }
@@ -49,7 +47,7 @@ body {
   width: 270px;
   float: right;
   padding: 15px;
-  
+
 }
 .article {
   padding: 20px;
@@ -71,7 +69,7 @@ body {
   padding-top: 5px;
   padding-bottom: 5px;
   color: #185880;
-  
+
 }
 a {
   text-decoration: none;
