@@ -1,23 +1,30 @@
-
 * {
   margin: 0;
   padding: 0;
   outline: 0;
 }
-.main-body {
-
-}
 body {
   width: 100%;
+ 
   font-family: Arial;
   font-size: 18px;
   color: #000;
   font-weight: normal;
 }
+.main-body {
+ width: 954px;
+ margin: auto;
+}
+
+
 .tmplete {
   width: 954px;
+  margin: ;
   background-color: White;
   padding: 0px 0px 0px 0px;
+}
+.Sidebar{
+
 }
 .clear {
   overflow: hidden;
@@ -31,6 +38,12 @@ body {
   background-color: #fff;
   border-right-style: solid;
   border-right-color: #9E9E9E;
+}
+.sidebar {
+  width: 270px;
+  float: right;
+  padding: 15px;
+  
 }
 .article {
   padding: 20px;
@@ -95,12 +108,6 @@ a {
 
 /* ### Sidebar Section ### */
 
-.sidebar {
-  width: 270px;
-  float: right;
-  padding: 15px;
-  
-}
 .parsonal-profile-img img {
   background-color: #E8F0F8;
   float: left;
