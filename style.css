@@ -71,6 +71,10 @@ body {
   padding-top: 5px;
   padding-bottom: 5px;
   color: #185880;
+  
+}
+a {
+  text-decoration: none;
 }
 .comment-date {
   color: blue;
