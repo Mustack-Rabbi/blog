@@ -11,15 +11,20 @@ body {
   color: #000;
   font-weight: normal;
 }
-.main-body {
+/*.main-body {
  width: 954px;
  margin: auto;
-}
+ border-left: 5px;
+ border-right: 5px;
+ border: solid;
+ border-color: red;
+
+}*/
 
 
 .tmplete {
   width: 954px;
-  margin: ;
+  margin: auto;
   background-color: White;
   padding: 0px 0px 0px 0px;
 }
